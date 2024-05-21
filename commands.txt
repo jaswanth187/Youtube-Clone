@@ -1,0 +1,6 @@
+firebase init => to initialize the firebase in the project
+
+build => helps to host app online
+y
+npm run build
+firebase deploy
